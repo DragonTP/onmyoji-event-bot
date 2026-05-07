@@ -2,7 +2,7 @@
 
 Một tool tự động hóa (Bot) bằng Python giúp các đại thần "rảnh tay" cày cuốc sự kiện **Yomihamas Vestiges (Tower Climb) (Onmyoji)**. Bot sử dụng **OpenCV** để nhận diện hình ảnh và **PyAutoGUI** để giả lập thao tác click chuột.
 
-Được tối ưu cho các event dạng **Đổ xúc xắc / Bàn cờ**, giúp tự động vượt ải, đánh boss, nhận quà và xử lý các tình huống bất ngờ trên bàn cờ.
+Được dùng để giúp tự động vượt ải, đánh boss, nhận quà và xử lý các tình huống khác trên bàn cờ.
 
 ---
 
