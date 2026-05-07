@@ -24,5 +24,6 @@ Tự động nhận diện và xử lý các trạng thái trong sự kiện:
 
 ## 🎥 Video Demo:
 Xem thử "nông dân" chạy tự động mượt mà như thế nào nhé:
-https://github.com/DragonTP/onmyoji-event-bot/blob/d678ec92a6676b2145010315a30ffd523ff334f1/assets/demo.mp4
+<video src="https://github.com/DragonTP/onmyoji-event-bot/raw/refs/heads/main/assets/demo.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
